@@ -1,0 +1,1 @@
+- Career ladder framework. Outlines expectations and growth paths from junior → mid → senior (and beyond): https://github.com/jorgef/engineeringladders?tab=readme-ov-file
