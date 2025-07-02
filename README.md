@@ -1,16 +1,14 @@
 # 🧠 Dev Logbook / Journal / Diary
 
-Past me made the best decision with the info I had at that time. This repo helps future me remember that, and move forward faster.
+I rarely forget _what_ I did, I usually forget _why_ I did it. This is a place that helps future me trust the decisions I once made in the past, and avoid falling into the same rabbit holes. This isn't about memorizing facts, it's about preserving reasoning. It’s all about **documenting context**, **understanding tradeoffs**, and **saving time for future me**.
 
 It’s where I capture:
 - 🧩 Technical decisions and the context behind them
-- 🛠️ Tool and library choices (with tradeoffs)
-- 🤯 Weird behaviors in 3rd-party APIs and workarounds
+- 🛠️ Tool and library choices with tradeoffs
 - 💬 Reflections on code, architecture, naming, or just thinking
 - 📎 Code snippets I don’t want to reinvent
-- 🔁 Patterns I keep forgetting and re-researching
-
-This isn't about memorizing facts, it's about preserving reasoning. It’s about **documenting context**, **understanding tradeoffs**, and **saving time for future me**.
+- 🔁 Language specific patterns I keep forgetting and re-researching
+- 🤯 Weird behaviors in 3rd-party APIs and workarounds
 
 ## ✍️ Why this exists
 
