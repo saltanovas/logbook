@@ -30,9 +30,11 @@ Read: Composition over inheritance
 Presents diverse viewpoints and perspectives, even if I don't always agree
 
 **Posts**
+
 -- https://www.reddit.com/r/softwarearchitecture/comments/1m3j85h/strategic_thinking_tech_debt/
 
 **Videos**
+
 -- https://www.youtube.com/watch?v=DWkHN0VaFJA&ab_channel=ThePrimeTime
 -- https://www.youtube.com/watch?v=0FZUwL9JiJM&ab_channel=ThePrimeTime
 - https://www.youtube.com/watch?v=EH12jHkQFQk&ab_channel=ThePrimeTime      
@@ -41,6 +43,7 @@ Presents diverse viewpoints and perspectives, even if I don't always agree
     - https://www.reddit.com/r/webdev/comments/1dfa6fv/how_to_be_an_engineer_not_a_frameworker/
 - Nice mindset: https://www.youtube.com/watch?v=hE2NZ0PM0EA&ab_channel=ThePrimeTime
 - The truth about promotions in IT: https://www.youtube.com/watch?v=kKiMl1zDO-c&ab_channel=CodeHead
+- (negative)10x engineer: https://www.youtube.com/watch?v=pHJmmTivG1k&t=276s&ab_channel=ThePrimeTime
 
 ### Articles
 
